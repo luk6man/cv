@@ -105,3 +105,14 @@ hr:before {
         padding: 2rem;
         background-color: #cceabb;
     }
+
+    .bottom-container a{
+        color: #3f3f44;
+        margin: 1rem;
+        font-family: 'Merriweather', serif;
+        text-decoration: none;
+    }
+
+    .bottom-container a:hover{
+        color: #FDCB9E;
+    }
